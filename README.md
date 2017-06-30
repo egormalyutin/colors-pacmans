@@ -1,6 +1,6 @@
 # colors-pacman
 
-## This package for Arch Linux shows terminal's colors on pacmans.
+## This package for Arch Linux shows terminal colors on pacmans.
 
 [![asciicast](https://asciinema.org/a/kIOaXI8Rkdj5XY1FLMaHLRlFW.png)](https://asciinema.org/a/kIOaXI8Rkdj5XY1FLMaHLRlFW)
 
